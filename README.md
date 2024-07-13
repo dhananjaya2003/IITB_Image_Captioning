@@ -1,2 +1,2 @@
-# Dhananjay
+
 IITB - Internship
